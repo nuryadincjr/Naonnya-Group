@@ -1,0 +1,48 @@
+.img-thumbnail {
+  margin-top: 5rem;
+}
+
+h1,
+footer {
+  padding: 2rem;
+}
+
+.jumbotron {
+  background-image: url("img/jumbotron.jpg");
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  color: white;
+}
+
+#visi,
+#contact {
+  background-color: #ff6b77;
+  color: white;
+}
+
+#sarana {
+  background-color: white;
+}
+
+#visi,
+#sarana,
+#contact {
+  padding-top: 5rem;
+}
+#contact {
+  padding-bottom: 4rem;
+}
+
+footer {
+  text-align: center;
+  background-color: #dc3545;
+  color: white;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
